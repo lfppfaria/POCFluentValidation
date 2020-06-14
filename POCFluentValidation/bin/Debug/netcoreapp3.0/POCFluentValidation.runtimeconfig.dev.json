@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\faria\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\faria\\.nuget\\packages"
+    ]
+  }
+}
